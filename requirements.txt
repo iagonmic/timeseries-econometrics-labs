@@ -3,3 +3,5 @@ numpy
 plotnine
 statsmodels
 ipykernel
+scikit-learn
+yfinance
