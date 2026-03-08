@@ -5,3 +5,5 @@ statsmodels
 ipykernel
 scikit-learn
 yfinance
+arch
+seaborn
